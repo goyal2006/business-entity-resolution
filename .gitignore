@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Amazon ML Challenge data
+student_resource/
+dataset/
+*.tsv
+*.zip
+
+# Generated outputs
+output/*.tsv
+output/*.csv
+output/*.json
